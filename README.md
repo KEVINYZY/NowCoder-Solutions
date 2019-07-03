@@ -1,3 +1,4 @@
+其实我自己都刷过了，但是没有保存下来，所以就借鉴这位老哥的了。
 # 牛客网编程题解法集合
 
 ![](https://img.shields.io/badge/Language-C++-orange.svg?style=flat)	![](https://img.shields.io/badge/Email-shiqitao@sjtu.edu.cn-blue.svg)
